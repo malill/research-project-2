@@ -1,0 +1,17 @@
+---------------------------------------------------------
+We won't disclose the data used in this paper due to the privacy policy of the company.
+However, we provide the data format and the data structure for reference. As mentioned
+in the paper, the data is collected from a real-world recommender system. The data is
+collected from the user behavior of the recommender system. Access to data is available
+upon request. Please contact the corresponding author for more details.
+---------------------------------------------------------
+
+papers/Recommender Systems Assimilation Effects/Data/click_behavior_20220410.csv
+papers/Recommender Systems Assimilation Effects/Data/click_behavior_20220428.csv
+papers/Recommender Systems Assimilation Effects/Data/click_behavior_final_20220428.csv
+papers/Recommender Systems Assimilation Effects/Data/click_behavior_processed_20220406.csv
+papers/Recommender Systems Assimilation Effects/Data/click_behavior_processed_20220410.csv
+papers/Recommender Systems Assimilation Effects/Data/click_behavior_processed_20220428.csv
+papers/Recommender Systems Assimilation Effects/Data/click_behavior.csv
+papers/Recommender Systems Assimilation Effects/Data/img_sim.csv
+papers/Recommender Systems Assimilation Effects/Data/items_20220327.csv

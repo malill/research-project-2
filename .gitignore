@@ -132,7 +132,7 @@ ui-tests/playwright-report
 .Rproj.user
 
 # Data
-/Data
+/Data/*
 !Data/.gitkeep
 
 # R
